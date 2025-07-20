@@ -22,13 +22,13 @@ Monoamine Oxidase B is a key target in Parkinson’s disease treatment. This too
 
 1. Clone the repository
 2. Install required Python packages.
-3. Make sure **PaDEL-Descriptor.jar** is present in the working directory
+3. Make sure 'PaDEL-Descriptor.jar','descriptor_list.csv', 'MAOB_model.pkl' is present in the working directory
 4. Run the app.
-5. Upload your SMILES `.csv` file and get predictions instantly!
+5. Upload your SMILES `.txt` file and get predictions instantly!
 
 ## 📁 Input Format
 
-CSV file with a column named `smiles`. Example:
+.txt file with 'smiles' notation Example:
 
 | smiles               |
 |----------------------|
@@ -44,4 +44,4 @@ CSV file with a column named `smiles`. Example:
 
 This project is for academic and educational purposes
 
-**Please check my thesis for further clarification.**
+**Please read my thesis for more information.**
