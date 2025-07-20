@@ -23,8 +23,9 @@ Monoamine Oxidase B is a key target in Parkinson’s disease treatment. This too
 1. Clone the repository
 2. Install required Python packages.
 3. Make sure 'PaDEL-Descriptor.jar','descriptor_list.csv', 'MAOB_model.pkl' is present in the working directory
-4. Run the app.
-5. Upload your SMILES `.txt` file and get predictions instantly!
+4. Download 'MOAB_model.pkl' from my drive 'https://drive.google.com/drive/folders/16dPSPYQ9Wz6wrzVe6nMmGx11NnHCYkdL?usp=drive_link'
+5. Run the app.
+6. Upload your SMILES `.txt` file and get predictions instantly!
 
 ## 📁 Input Format
 
